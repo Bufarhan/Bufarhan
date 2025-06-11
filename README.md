@@ -17,7 +17,7 @@ I'm a full stack web developer with 16+ years of experience building robust, use
 ### 🎯 Focus Areas
 - Simplifying complex business logic through elegant code
 - Financial and operational reporting systems
-- Multi-currency support
+- Multi-tenancy systems and SaaS
 - Lightweight solutions with localized interfaces (e.g., Arabic UI)
 
 ### 📬 Let's Connect
