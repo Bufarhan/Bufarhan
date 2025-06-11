@@ -15,10 +15,17 @@ I'm a full stack web developer with 16+ years of experience building robust, use
 - Collaborate across cultures (UAE 🇦🇪, Turkey 🇹🇷, and beyond)
 
 ### 🎯 Focus Areas
-- Simplifying complex business logic through elegant code
+- Simplifying complex business logic through elegant code-ERP
 - Financial and operational reporting systems
 - Multi-tenancy systems and SaaS
+- Container/Port/Vessel management system(Resource planning systems)
 - Lightweight solutions with localized interfaces (e.g., Arabic UI)
+
+### 💬 Languages I Speak
+- **English** – Fluent  
+- **Arabic** – Native  
+- **Turkish** – Conversational
+- **Persian (Farsi)** – Native
 
 ### 📬 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/abdulsalam-bufarhan-2520352b)
