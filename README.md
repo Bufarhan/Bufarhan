@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Abdulsalam
 
-I'm a full stack web developer with 15+ years of experience building robust, user-focused applications across various industries, including fintech and marine services.
+I'm a full stack web developer with 16+ years of experience building robust, user-focused applications across various industries, including fintech and marine services.
 
 ### 🛠️ Tech Stack
 - **Backend**: .NET, ASP.NET Core, Entity Framework
 - **Frontend**: Blazor, Razor Components, JavaScript, HTML/CSS
-- **Databases**: SQL Server, PostgreSQL, SQLite
-- **Tools & DevOps**: Git, REST APIs, Docker, GitHub Actions
+- **Databases**: SQL Server, PostgreSQL, SQLite, Cosmos DB
+- **Tools & DevOps**: Git, REST APIs, Docker, GitHub Actions, Azure
 
 ### 🌍 What I Do
 - Design and develop scalable web applications
@@ -17,8 +17,8 @@ I'm a full stack web developer with 15+ years of experience building robust, use
 ### 🎯 Focus Areas
 - Simplifying complex business logic through elegant code
 - Financial and operational reporting systems
-- Multi-currency support (e.g., IRR/IQD)
-- Lightweight solutions with localized interfaces (e.g., Persian UI)
+- Multi-currency support
+- Lightweight solutions with localized interfaces (e.g., Arabic UI)
 
 ### 📬 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/abdulsalam-bufarhan-2520352b)
